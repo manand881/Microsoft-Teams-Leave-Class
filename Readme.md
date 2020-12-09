@@ -17,7 +17,7 @@ Enter the time at which you wish to leave class in the **HH:MM:SS** format and i
 
 ## Appeal
 
-I do no wish for this script to be used in a way that demeaning or demoralizing manner to any teacher or employer. I have made it just because i like to make small projects and have the inclination. Please use this is a respectable manner or for educational purposes only.  
+I do no wish for this script to be used in a demeaning or demoralizing manner to any teacher or employer. I have made it just because i like to make small projects and have the inclination. Please use this is a respectable manner or for educational purposes only.  
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
